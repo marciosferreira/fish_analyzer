@@ -17,7 +17,7 @@ Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM - Edital Universa
 # visão do software
 ![](software.png)
 
-# assista o vídeo
+# assista o vídeo de demonstração
 [![Watch the video](watch.png)](https://youtu.be/vt5fpE0bzSY)
 
 

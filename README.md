@@ -18,6 +18,6 @@ Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM - Edital Universa
 ![](software.png)
 
 # assista o vídeo
-[![Watch the video]](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 

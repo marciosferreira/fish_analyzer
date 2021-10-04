@@ -1,7 +1,8 @@
 # fish_analyzer
 Software analizador do batimento caudal de peixes
 
-# Financiamento: FAPEAM - Edital Universal 2018
+# Financiamento do projeto: FAPEAM - Edital Universal 2018
+![]()
 
 # Instruções de instalação: 
 1) Utilize o arquivo fish_analyzer.yml para criar um ambiente virtual em sua máquina

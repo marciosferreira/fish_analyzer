@@ -10,7 +10,7 @@ Software analizador do batimento caudal de peixes
 3) Siga os passos indicados no próprio software
 
 # gráficos gerados (relatórios também são gerados)
-![](graphs.jpg)
+![](graphs.png)
 
 # visão do software
 ![](software.jpg)

@@ -13,5 +13,5 @@ Software analizador do batimento caudal de peixes
 ![](graphs.png)
 
 # visão do software
-![](software.jpg)
+![](software.png)
 

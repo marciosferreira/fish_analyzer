@@ -8,3 +8,10 @@ Software analizador do batimento caudal de peixes
 1) Utilize o arquivo fish_analyzer.yml para criar um ambiente virtual em sua máquina
 2) Abra o arquivo fish_analyzer.py
 3) Siga os passos indicados no próprio software
+
+# gráficos gerados (relatórios também são gerados)
+![](graphs.jpg)
+
+# visão do software
+![](software.jpg)
+

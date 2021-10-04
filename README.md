@@ -1,4 +1,4 @@
-# fish_analyzer
+# fish analyzer
 Software analizador do batimento caudal de peixes
 
 # Financiamento do projeto: 

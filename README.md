@@ -1,7 +1,9 @@
 # fish_analyzer
 Software analizador do batimento caudal de peixes
 
-# Financiamento do projeto: FAPEAM - Edital Universal 2018
+# Financiamento do projeto: 
+
+Fundação de AMparo à Pesquisa do Estado do Amazonas (FAPEAM - Edital Universal 2018)
 ![](logo%20fapeam.jpg)
 
 # Instruções de instalação: 

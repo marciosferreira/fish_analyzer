@@ -1,2 +1,3 @@
 # fish_analyzer
-Fish Analyzer
+Software analizador do batimento caudal de peixes
+Financiamento: FAPEAM - Edital Universal 2018

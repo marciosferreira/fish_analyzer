@@ -271,7 +271,7 @@ def peaks(angle_list, fps, out_dir):
     # plt.show()
 lista_original_filter = pd.read_csv(in_file)
 
-
+print(lista_original_filter)
 #lista_original_filter.columns = ['angle']
 
 

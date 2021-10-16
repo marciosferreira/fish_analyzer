@@ -1,6 +1,9 @@
 import pandas as pd
 import argparse
 
+import warnings
+warnings.filterwarnings("ignore")
+
 parser = argparse.ArgumentParser(
     description='filtering results from fish analyzer software')
 
@@ -19,7 +22,7 @@ parser.add_argument('-f', '--fps',       action="store",         dest='fps',
 
 args = parser.parse_args()
 
-in_dir = args.indir  # "C:/Users/marci/Downloads/dugale.csv"
+in_file = args.indir  # "C:/Users/marci/Downloads/dugale.csv"
 out_dir = args.outdir  # = "C:/Users/marci/Downloads/"
 fps = args.fps
 start_frame = int(args.start_frame)
@@ -29,7 +32,7 @@ print("")
 print("")
 print("####################################")
 print("Fish Analyzer correction script")
-print("in dir = " + in_dir)
+print("in file = " + in_file)
 print("output dir = " + out_dir)
 print("fps = " + str(fps))
 print("start frame = " + str(start_frame) +
@@ -264,8 +267,13 @@ def peaks(angle_list, fps, out_dir):
     plt.savefig(out_dir + 'line_plot.png', bbox_inches="tight", pad_inches=1,
                 transparent=False, edgecolor='w', orientation='landscape')
 
+
     # plt.show()
-lista_original_filter = pd.read_csv(in_dir)
+lista_original_filter = pd.read_csv(in_file)
+
+
+#lista_original_filter.columns = ['angle']
+
 
 lista_original_filter = lista_original_filter.iloc[start_frame:finish_frame]
 
